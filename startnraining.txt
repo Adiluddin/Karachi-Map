@@ -1,6 +1,0 @@
-monkeys are raining:>> startnraining.txt
-echo monkeys are raining>> start raining.txt
-
-
-cd Karachi-maps
-echo monkeys are raining:
